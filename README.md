@@ -7,6 +7,7 @@ To Simulate energy management algorithm using MATLAB
 
 ## MATLAB CODING
 
+
 ## OUTPUT
 
 ## RESULT
